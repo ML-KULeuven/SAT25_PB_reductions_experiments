@@ -1,0 +1,78 @@
+filename,elapsed time,result
+normalized-t3002.11tsp11.1900566263.opb.xz,0.2477209568023681,OPTIMUM FOUND
+normalized-subsetcard-eq-random4reg-1250.shuf-2.opb.xz,0.2863507270812988,UNSATISFIABLE
+normalized-dbst_v30_e350_d15_mw10_9.opb.PB06.opb.xz,14.49597430229187,OPTIMUM FOUND
+normalized-ECrand4regsplit-v030-n1.opb.xz,0.0322680473327636,UNSATISFIABLE
+normalized-tseitin-regular-n62-d3-i3-r2.cnf.gz-plain.pb.metafix.opb.xz,2.160784244537353,UNSATISFIABLE
+normalized-t3002.11tsp11.1900568706.opb.xz,3.2894856929779053,UNSATISFIABLE
+normalized-3col-left3reg-l020-r019-n1.cnf-plain.pb.metafix.opb.xz,0.3544518947601318,UNSATISFIABLE
+normalized-3_4_10.opb.xz,0.1149156093597412,UNSATISFIABLE
+normalized-ooo.burch_dill.4.accl.ucl.opb.xz,0.7359604835510254,UNSATISFIABLE
+normalized-rand6reg-v051-n2.opb.xz,1.1076817512512207,UNSATISFIABLE
+normalized-fpga25_24_sat_pb.cnf.cr.opb.xz,0.179715871810913,OPTIMUM FOUND
+normalized-army8.9ls.opb.xz,1.6374194622039795,OPTIMUM FOUND
+normalized-dbst_v50_e1000_d25_mw10_3.opb.PB06.opb.xz,74.01105165481567,OPTIMUM FOUND
+normalized-dbst_v40_e600_d20_mw10_2.opb.PB06.opb.xz,41.10128831863403,OPTIMUM FOUND
+normalized-8_6_25.opb.xz,973.93146276474,UNSATISFIABLE
+normalized-3col-left3reg-l010-r010-n1.cnf-plain.pb.metafix.opb.xz,0.0841784477233886,UNSATISFIABLE
+normalized-ECrand4regsplit-v040-n1.opb.xz,0.0292677879333496,UNSATISFIABLE
+normalized-ECrand6reg-v041-n1.opb.xz,0.0690455436706543,UNSATISFIABLE
+normalized-air01.0.s.opb.xz,0.0697450637817382,OPTIMUM FOUND
+normalized-fpga11_10_sat_pb.cnf.cr.opb.xz,0.0323367118835449,OPTIMUM FOUND
+normalized-subsetcard-eq-fixedbandwidth-2750.shuf-1.opb.xz,2.588324546813965,UNSATISFIABLE
+normalized-pigeon-cardinality-11-10.opb.xz,0.0337400436401367,UNSATISFIABLE
+normalized-army9.12ls.opb.xz,26.38716435432434,OPTIMUM FOUND
+normalized-rand6reg-v101-n3.opb.xz,0.901320457458496,UNSATISFIABLE
+normalized-blast-floppy1-6.ucl.opb.xz,0.0644471645355224,UNSATISFIABLE
+normalized-4_6_6.opb.xz,0.0570819377899169,UNSATISFIABLE
+normalized-j903_2-unsat.opb.xz,0.0852024555206298,UNSATISFIABLE
+normalized-fixed-bandwidth-92.cnf.gz-plain.pb.metafix.opb.xz,1218.2503011226654,UNSATISFIABLE
+normalized-j9027_4-unsat.opb.xz,0.1617848873138427,UNSATISFIABLE
+normalized-robin10.opb.xz,0.9837324619293212,OPTIMUM FOUND
+normalized-2_4_4.opb.xz,0.0297598838806152,UNSATISFIABLE
+normalized-BeauxArts_K80.opb.xz,58.39837980270386,OPTIMUM FOUND
+normalized-tseitin-regular-n36-d3-i2-r2.cnf.gz-plain.pb.metafix.opb.xz,0.0408241748809814,UNSATISFIABLE
+normalized-t3002.11tsp11.1900553606.opb.xz,0.6334085464477539,OPTIMUM FOUND
+normalized-ECgrid5x40split.cnf-extracted.pb.metafix.opb.xz,184.46029353141785,UNSATISFIABLE
+normalized-t3002.11tsp11.1900564281.opb.xz,2.0543689727783203,UNSATISFIABLE
+normalized-tseitin-regular-n24-d3-i2-r2.cnf.gz-plain.pb.metafix.opb.xz,0.0275280475616455,UNSATISFIABLE
+normalized-j3044_7-sat.opb.xz,0.1239981651306152,OPTIMUM FOUND
+normalized-subsetcard-geq-random4reg-50.shuf-1.opb.xz,0.0409722328186035,UNSATISFIABLE
+normalized-rand6reg-v101-n1.opb.xz,0.6134095191955566,UNSATISFIABLE
+normalized-ECgrid3x80split.cnf-plain.pb.metafix.opb.xz,3.162987232208252,UNSATISFIABLE
+normalized-pigeon-clauses-85-80.opb.xz,7200.0,TIMEOUT
+normalized-NG_K172.opb.xz,7200.0,TIMEOUT
+normalized-subsetcard-eq-random4regular-75.opb.xz,0.0479626655578613,UNSATISFIABLE
+normalized-3col-left3reg-l090-r089-n1.cnf-extracted.pb.metafix.opb.xz,111.10786867141724,UNSATISFIABLE
+normalized-grid4_97.shuf-1.opb.xz,0.0777390003204345,UNSATISFIABLE
+normalized-sha1-size160-round22-8.opb.xz,7200.0,TIMEOUT
+normalized-subsetcard-geq-random4reg-1500.shuf-2.opb.xz,0.2849833965301513,UNSATISFIABLE
+normalized-28array_alg_ineq8.opb.xz,7200.0,TIMEOUT
+normalized-neos-948346.0.s.opb.xz,7200.0,TIMEOUT
+normalized-hw256-vm50p-dec.opb.negationfix.opb.xz,487.9679379463196,OPTIMUM FOUND
+normalized-grid6_19.shuf-1.opb.xz,0.0310902595520019,UNSATISFIABLE
+normalized-33.opb.xz,7200.0,TIMEOUT
+normalized-t3002.11tsp11.1900573901.opb.xz,12.47499179840088,UNSATISFIABLE
+normalized-subsetcard-eq-random4reg-3250.shuf-1.opb.xz,1.1716320514678955,UNSATISFIABLE
+normalized-TateBritain_K107.opb.xz,7200.0,TIMEOUT
+normalized-t3002.11tsp11.1900569834.opb.xz,2.506861925125122,UNSATISFIABLE
+normalized-neos808444.opb.xz,1.0552849769592283,OPTIMUM FOUND
+normalized-TateBritain_K81.opb.xz,7200.0,TIMEOUT
+normalized-neos-506428.0.u.opb.xz,7200.0,TIMEOUT
+normalized-t3002.11tsp11.1900566157.opb.xz,16.294039487838745,UNSATISFIABLE
+normalized-fpga40_38_sat_pb.cnf.cr.opb.xz,0.2750663757324219,OPTIMUM FOUND
+normalized-t3002.11tsp11.1900571132.opb.xz,7.732373714447021,UNSATISFIABLE
+normalized-tseitin-regular-n58-d3-i1-r1.cnf.gz-plain.pb.metafix.opb.xz,0.4340357780456543,UNSATISFIABLE
+normalized-j6042_1-sat.opb.xz,1.0299432277679443,OPTIMUM FOUND
+normalized-dbst_v30_e350_d15_mw10_1.opb.PB06.opb.xz,23.799994945526123,OPTIMUM FOUND
+normalized-dbst_v30_e350_d15_mw10_3.opb.PB06.opb.xz,18.64206576347351,OPTIMUM FOUND
+normalized-tseitin-regular-n94-d3-i3-r1.cnf.gz-plain.pb.metafix.opb.xz,7200.0,TIMEOUT
+normalized-ooo.tag10.ucl.opb.xz,0.8017532825469971,UNSATISFIABLE
+normalized-grid6_13.shuf-2.opb.xz,0.0325729846954345,UNSATISFIABLE
+normalized-dbst_v40_e600_d20_mw10_9.opb.PB06.opb.xz,40.69084429740906,OPTIMUM FOUND
+normalized-t3002.11tsp11.1900559676.opb.xz,5.6940693855285645,UNSATISFIABLE
+normalized-ECgrid5x80split.cnf-plain.pb.metafix.opb.xz,2261.6206941604614,UNSATISFIABLE
+normalized-subsetcard-geq-random4reg-3500.opb.xz,1.0539157390594482,UNSATISFIABLE
+normalized-ECgrid5x90split.opb.xz,732.8183217048645,UNSATISFIABLE
+normalized-sumineqArity4pyramidP0064.opb.xz,0.2996454238891601,UNSATISFIABLE
+normalized-35.opb.xz,7200.0,TIMEOUT
