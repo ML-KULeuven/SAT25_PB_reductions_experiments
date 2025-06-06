@@ -6,7 +6,7 @@ You will need to install Exact and RoundingSat by yourself and download the benc
 
 Version of Exact: https://gitlab.com/nonfiction-software/exact/-/tree/CP25_base?ref_type=heads
 
-Version of RoundingSat:
+Version of RoundingSat: https://github.com/ML-KULeuven/RoundingSat_ImprovedReduction
 
 Knapsack benchmark: https://zenodo.org/records/3939055 (run with run_KNAP.py, make sure to fill in the correct path to your solvers and benchmarks)
 
