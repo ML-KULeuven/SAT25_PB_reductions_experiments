@@ -281,7 +281,7 @@ def parse_gurobi(output_text, instance_path, elapsed):
 SOLVERS = {
     'exact': SolverConfig(
         name='exact',
-        path='../../solvers/PB/exact/build/Exact',
+        path='../../solvers/PB/exact/build/Exact', # YOUR PATH TO EXACT SOLVER
         command='{path} {instance} {flags}',
         flag_configs=[
             {   # Base configuration
@@ -397,7 +397,7 @@ SOLVERS = {
     ),
     'roundingsat': SolverConfig(
         name='roundingsat',
-        path='../../solvers/PB/roundingsat/build_new/roundingsat',
+        path='../../solvers/PB/roundingsat/build_new/roundingsat', # YOUR PATH TO ROUNDINGSAT SOLVER
         command='{path} {flags} {instance}',
         flag_configs=[
             {   # Base configuration
@@ -560,7 +560,7 @@ def main():
     print(f"Physical cores: {PHYSICAL_CORES}")
     print(f"Total memory: {psutil.virtual_memory().total / 1024 ** 3:.1f}GB")
     print(f"Safe parallelism: {min(PHYSICAL_CORES, psutil.virtual_memory().total // (31 * 1024 ** 3))}")
-    benchmark_base_dir = "../../benchmarks/"
+    benchmark_base_dir = "../../benchmarks/" # YOUR PATH TO BENCHMARKS
     subdirs = ["KNAP"]
     timeout = 600  # Override default timeout for specific runs
     executor = MemoryAwareExecutor(timeout=timeout)

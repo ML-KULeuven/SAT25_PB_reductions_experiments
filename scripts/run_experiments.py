@@ -525,7 +525,7 @@ def main():
     print(f"Physical cores: {PHYSICAL_CORES}")
     print(f"Total memory: {psutil.virtual_memory().total/1024**3:.1f}GB")
     print(f"Safe parallelism: {min(PHYSICAL_CORES, psutil.virtual_memory().total//(31*1024**3))}")
-    benchmark_base_dir = "../../benchmarks/filtered-PB24/"
+    benchmark_base_dir = "../../benchmarks/filtered-PB24/" # YOUR PATH TO BENCHMARKS HERE
     subdirs = ["DEC-LIN", "OPT-LIN"]
     timeout = 3600  # Override default timeout for specific runs
     executor = MemoryAwareExecutor(timeout=timeout)
